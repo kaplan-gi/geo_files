@@ -1,0 +1,597 @@
+﻿continent,country,name_format,name,geo_type,iso_a3,marker_lat,marker_long,zoom,file_name,file_source,project,notes
+Africa,Algeria,Algeria,Algeria,country,DZA,28.0000272,2.9999825,,res50m.geo.json,,GIVES-21,
+Africa,Algeria,Constantine,Constantine,municipality,,36.364519,6.60826,9,municipalities_Africa,OSM,GIVES-21,
+South America,Argentina,Argentina,Argentina,country,ARG,-34.9964963,-64.9672817,,res50m.geo.json,,GIVES-21,
+South America,Argentina,Partido de General Pueyrredón,General Pueyrredon Partido,region,,-38.0267588,-57.6045083,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21,
+South America,Argentina,Córdoba,Cordoba,municipality,,-31.4201,-64.1888,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21,
+Asia,Asia and Australia,"Australia (Geelong), China (Chengdu, Guangzhou, Xi'an, Hong Kong, Macau), Hong Kong (North East and Kowloon East territory), Indonesia (Central Jakarta), Macau (entire region), Malaysia (Kinta Valley), Singapore (nationwide), Sri Lanka (Gampaha district), Thailand (Chiangmai and Chiangrai, Bangkok)",Asia and Australia (Ng 2013),region,,,,,,,GIVES-21 Update,Ng 2013
+Asia,Asia and Australia,"13 regions (Brunei, China, Hong Kong, India, Indonesia, Macau, Malaysia, Philippines, Singapore, Sri Lanka, Taiwan, Thailand, Australia)",Asia and Australia (Ng 2016),region,,,,,,,GIVES-21 Update,Ng 2016
+Oceania,Australia,Australia,Australia,country,AUS,-24.7761086,134.755,,res50m.geo.json,,GIVES-21,
+Oceania,Australia,Hunter Valley,Hunter Valley,region,,-32.1932,151.7006,6,regions_Oceania.geojson,Manually generated with geojson.io,GIVES-21,
+Oceania,Australia,Tasmania,Tasmania,region,,-42.0409,146.8087,6,regions_Oceania.geojson,OSM,GIVES-21,
+Oceania,Australia,Barwon Heads,BARWON HEADS,municipality,,-30.9872222,148.9511111,9,municipalities_Oceania.geojson,cities_edited.json,GIVES-21,
+Oceania,Australia,Geelong,Geelong,municipality,,-38.1492813,144.3598269,9,municipalities_Oceania.geojson,OSM,GIVES-21,
+Oceania,Australia,Melbourne,Melbourne,municipality,,-37.8142176,144.9631608,9,municipalities_Oceania.geojson,OSM,GIVES-21,
+Europe,Austria,Austria,Austria,country,AUT,47.59397,14.12456,,res50m.geo.json,,GIVES-21,
+Europe,Austria,Styria,Styria,region,,47.2500001,15.1666665,6,regions_Europe1.geojson,OSM,GIVES-21,
+Asia,Bahrain,Bahrain,Bahrain,country,BHR,26.0667,50.5577,,res50m.geo.json,,GIVES-21,
+North America,Barbados,Barbados,Barbados,country,BRB,13.17045,-59.551394,,res50m.geo.json,,GIVES-21 Update,
+Europe,Belgium,Belgium,Belgium,country,BEL,50.6402809,4.6667145,,res50m.geo.json,,GIVES-21,
+Europe,Belgium,Brussels,Brussels,municipality,,50.8465573,4.351697,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Belgium,Liège,Liege,municipality,,50.6451381,5.5734203,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Bosnia and Herzegovina,Bosnia and Herzegovina,Bosnia and Herz.,country,BIH,44.3053476,17.5961467,,res50m.geo.json,,GIVES-21,
+Europe,Bosnia and Herzegovina,Tuzla,TUZLA,municipality,,44.5375,18.6735,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21,
+South America,Brazil,Brazil,Brazil,country,BRA,-10.3333333,-53.2,,res50m.geo.json,,GIVES-21,
+South America,Brazil,Botucatu,Botucatu,region,,-22.8879628,-48.4410712,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21 Update,
+South America,Brazil,Espírito Santo,Espirito Santo,region,,-19.5687682,-40.1721991,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21,
+South America,Brazil,Paraná State,Parana,region,,-24.60756015,-51.61863857,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21 Update,
+South America,Brazil,Piauí State,Piaui State,region,,-9.01230165,-42.69033572,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21,
+South America,Brazil,Rio De Janeiro,Rio de Janeiro,region,,-22.9068,-43.1729,6,regions_SouthAmerica_simp.geojson,OSM,Cost_map,
+South America,Brazil,Rio Grande do Sul,Rio Grande do Sul,region,,-29.5428993,-53.16677475,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21 Update,
+South America,Brazil,São Paulo State,Sao Paulo State,region,,-24.46118345,-48.59281421,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21 Update,
+South America,Brazil,"Campinas Area, 7th RHD, Sao Paulo State",Campinas,municipality,,-22.90672464,-47.06797048,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21 Update,
+South America,Brazil,Caxais Do Sul,CAXAIS DO SUL,municipality,,-29.174,-51.1812,9,municipalities_SouthAmerica.geojson,cities_edited.json,GIVES-21,
+South America,Brazil,Ribeirão Preto,Ribeirao Preto,municipality,,-21.178333,-47.8066671,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21 Update,
+South America,Brazil,São Paulo,Sao Paulo,municipality,,-23.5506507,-46.6333824,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21,
+South America,Brazil,Uberlândia,Uberlandia,municipality,,-18.91199045,-48.27524013,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21 Update,
+Asia,Brunei,Brunei,Brunei,country,BRN,4.4137155,114.5653908,,res50m.geo.json,,GIVES-21,
+North America,Canada,Canada,Canada,country,CAN,61.0666922,-107.991707,,res50m.geo.json,,GIVES-21,
+North America,Canada,"Alberta, Manitoba, Ontario, Nova Scotia",AB MB ON NS,region,,51.75301393,-92.71039933,3,regions_NorthAmerica.geojson,"canada_prov_terr.json, combined with QGIS",GIVES-24,
+North America,Canada,"Alberta, Saskatchewan, Manitoba, Nova Scotia",AB SK MB NS,region,,54.79954307,-99.03852442,3,regions_NorthAmerica.geojson,"canada_prov_terr.json, combined with QGIS",GIVES-23,
+North America,Canada,Alberta,Alberta,region,,55.001251,-115.002136,4,regions_NorthAmerica.geojson,canada_prov_terr.json,GIVES-21,
+North America,Canada,"Alberta, British Columbia, Saskatchewan, Manitoba, Nova Scotia",BC AB SK MB NS,region,,53.09283459,-102.8178213,3,regions_NorthAmerica.geojson,"canada_prov_terr.json, combined with QGIS",GIVES-22,
+North America,Canada,"Alberta, British Columbia, Saskatchewan, Manitoba, Ontario, Nova Scotia",BC AB SK MB ON NS,region,,50.3722329,-93.67719622,3,regions_NorthAmerica.geojson,"canada_prov_terr.json, combined with QGIS",GIVES-23,
+North America,Canada,"BC, AB, SK, MB, ON, QC",BC AB SK MB ON QC,region,,53.72154465,-101.8510245,3,regions_NorthAmerica_simp.geojson,canada_prov_terr.json,GIVES-21 Update,
+North America,Canada,"Alberta, British Columbia, Saskatchewan, Manitoba, Quebec, Nova Scotia",BC AB SK MB QC NS,region,,54.23839295,-101.6752432,3,regions_NorthAmerica.geojson,"canada_prov_terr.json, combined with QGIS",GIVES-22,
+North America,Canada,British Columbia,British Columbia,region,,55.001251,-125.002441,4,regions_NorthAmerica.geojson,canada_prov_terr.json,GIVES-21,
+North America,Canada,Manitoba,Manitoba,region,,55.001251,-97.001038,4,regions_NorthAmerica.geojson,canada_prov_terr.json,GIVES-21,
+North America,Canada,Northern Alberta,Northern Alberta,region,,55.37798504,-114.2875481,6,regions_NorthAmerica.geojson,"gadm.org, combined with QGIS",GIVES-21,8 northern census divisions + Edmonton
+North America,Canada,Nova Scotia,Nova Scotia,region,,45.1960403,-63.1653789,6,regions_NorthAmerica.geojson,canada_prov_terr.json,GIVES-21,
+North America,Canada,Ontario,Ontario,region,,50.000678,-86.000977,4,regions_NorthAmerica.geojson,canada_prov_terr.json,GIVES-21,
+North America,Canada,Quebec,Quebec,region,,52.4760892,-71.8258668,4,regions_NorthAmerica.geojson,canada_prov_terr.json,GIVES-21,
+North America,Canada,Saskatchewan,Saskatchewan,region,,55.5321257,-106.1412243,4,regions_NorthAmerica.geojson,canada_prov_terr.json,GIVES-21,
+North America,Canada,Calgary,Calgary,municipality,,51.0447,-114.0719,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+South America,Chile,Chile,Chile,country,CHL,-35.6751,-71.543,,res50m.geo.json,,GIVES-21,
+Asia,China,China,China,country,CHN,35.000074,104.999927,,res50m.geo.json,,GIVES-21,
+Asia,China,Anhui (Eastern Region),Anhui,region,,31.81823501,117.4725882,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Beijing (Northern Region),Beijing,region,,39.91853767,116.3988034,8,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,"Boluo County, Guangdong Province",Boluo,region,,23.2976868,114.2430887,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Cuoxiong Country, Yunnan Province",Chuxiong,region,,25.050025,101.549312,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,Daqing,Daqing,region,,46.5969028,125.1014811,6,regions_Asia.geojson,OSM,GIVES-21,
+Asia,China,"Eastern Region (Shanghai, Jiangsu, Zhejiang, Anhui, Fugian, Jiangxi, Shandong Provinces)",Eastern China,region,,,,,,,GIVES-21 Update,Zheng 2005
+Asia,China,Gansu (Western Region),Gansu,region,,37.33014844,103.302274,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Guangdong,Guangdong Province,region,,23.1357694,113.1982688,6,regions_Asia.geojson,OSM,GIVES-21,
+Asia,China,Guangzhou,Guangzhou,region,,23.1493441,113.3115795,6,regions_Asia.geojson,OSM,GIVES-21 Update,"Ng 2018, municipality"
+Asia,China,Guizhou (Western Region),Guizhou,region,,27.00004297,106.696462,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Hainan (Southern Region),Hainan,region,,19.46951427,109.8973115,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Hebei (Northern Region),Hebei,region,,38.94545441,115.1529325,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Heilongjiang (Northern Region),Heilongjiang,region,,46.52017796,128.1954527,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Henan (Northern Region),Henan,region,,34.19099891,113.7777396,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Hong Kong,Hong Kong,region,,22.3193,114.1694,6,regions_Asia.geojson,OSM,GIVES-21,
+Asia,China,"Jian Country, Zhejiang Province",Jian,region,,30.3161707,120.1937205,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Jiande Country, Zhejiang Province",Jiande,region,,29.48536054,119.2908464,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,Jiangsu (Eastern Region),Jiangsu,region,,33.15990379,120.0330994,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Jiangxi (Eastern Region),Jiangxi,region,,27.64274199,115.6560106,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,"Jiangyou Changgang, Sichuan Province",Jiangyou Changgang,region,,31.774576,104.741694,6,regions_Asia.geojson,OSM,GIVES-21 Update,"Zheng 2010, municipality?, wrong polygon??"
+Asia,China,Jilin (Northern Region),Jilin,region,,43.84319788,126.5443079,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,"Jimo County, Shandong Province",Jimo,region,,43.89668988,125.3048137,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Liangjiang Country, Guandon Province",Liangjiang,region,,,,,,,GIVES-21 Update,Zheng 2010
+Asia,China,Liaoning (Northern Region),Liaoning,region,,41.66113854,123.3276863,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Macau,Macao,region,,22.20538187,113.5426863,6,res50m.geo.json,,GIVES-21,
+Asia,China,"Nanjing, Jiangsu Province",Nanjing,region,,32.07586667,118.8006439,6,regions_Asia.geojson,OSM,GIVES-21 Update,"Zheng 2010, municipality?"
+Asia,China,"Northern Region (Beijing, Tianjin, Hebei, Shanxi, Inner Mongolia Provinces)",Northern China,region,,,,,,,GIVES-21 Update,Zheng 2005
+Asia,China,Shaanxi (Western Region),Shaanxi,region,,35.20437582,109.0421727,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Shandong (Eastern Region),Shandong,region,,36.3542844,117.9790917,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Shanxi (Northern Region),Shanxi,region,,37.45313995,112.3955638,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,"Sheyang County, Jiangsu Province",Sheyang,region,,33.78530791,120.2627295,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Shiihezi, Xiangjiang Uygur Autonomous Region",Shiihezi,region,,44.30831841,86.05287442,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,Sichuan (Western Region),Sichuan,region,,30.72814077,103.3357453,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,"Siyang county, Jiangsu province",Siyang,region,,33.72937538,118.6709542,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Southern Region (Guangdong, Guangxi, Hainan, Hong Kong, Macau)",Southern China,region,,,,,,,GIVES-21 Update,Zheng 2005
+Asia,China,"Suzhou, Jiangsu Province",Suzhou,region,,31.30656783,120.5907359,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Western Region (Chongqing, Sichuan, Cuizhou, Yunnan, Tibet, Shaanxi, Gansu, Qinghai, Ningxia, Xinjiang)",Western China,region,,,,,,,GIVES-21 Update,Zheng 2005
+Asia,China,"Wulian County, Shandong",Wulian,region,,35.91138459,119.2296879,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Wuxi, Jiangsu Province",Wuxi,region,,31.53976738,120.319511,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,"Xiahe County, Gansu Province",Xiahe,region,,35.09011912,102.5449058,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,Xiangshan,Xiangshan,region,,29.4766,121.8693,6,regions_Asia.geojson,OSM,GIVES-21,Zhejiang province
+Asia,China,"Xiaoshan District, Zhejiang Province",Xiaoshan,region,,30.19758528,120.3150879,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,Yinzhou District,Yinzhou District,region,,29.74886454,121.688553,6,regions_Asia_simp.geojson,OSM,GIVES-21 Update,
+Asia,China,"Yishui County, Shadong",Yishui,region,,35.80092981,118.6336442,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2010
+Asia,China,Yunnan (Western Region),Yunnan,region,,24.63050132,102.2791099,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Zhejiang (Eastern Region),Zhejiang,region,,29.30016454,120.4167585,6,regions_Asia.geojson,OSM,GIVES-21 Update,Zheng 2005
+Asia,China,Chengdu,Chengdu City,municipality,,30.6598628,104.0633717,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,China,"Haimen City, Jiangsu Province",Haimen,municipality,,31.98091495,121.3547352,9,municipalities_Asia.geojson,OSM,GIVES-21 Update,
+Asia,China,"Jiaxing City, Zhejiang Province",Jiaxing,municipality,,30.75788231,120.7596568,9,municipalities_Asia.geojson,OSM,GIVES-21 Update,
+Asia,China,Kunming,Kunming,municipality,,24.8843019,102.8324209,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,China,"Kunshan City, Jiangsu Province",Kunshan,municipality,,31.35274407,120.9891016,9,municipalities_Asia.geojson,OSM,GIVES-21 Update,
+Asia,China,"Liupanshui City, Guizhou Province",Liupanshui,municipality,,26.59850248,104.827421,9,municipalities_Asia.geojson,OSM,GIVES-21 Update,
+Asia,China,Shanghai,Shanghai,municipality,,31.2304,121.4737,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,China,"Tonghua City, Jilin Province",Tonghua,municipality,,41.73412183,125.9513785,9,municipalities_Asia.geojson,OSM,GIVES-21 Update,
+Asia,China,Wuhan,Wuhan,municipality,,30.5951051,114.2999353,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,China,"Wuzhong City, Ningxia Huizu Province",Wuzhong,municipality,,37.99895339,106.1964222,9,municipalities_Asia.geojson,OSM,GIVES-21 Update,
+Asia,China,Xi'An,Xi-an,municipality,,34.3430507,108.9350839,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,China,Zhongshan,Zhongshan,municipality,,22.5159,113.3926,9,municipalities_Asia.geojson,OSM,GIVES-21,
+South America,Colombia,Colombia,Colombia,country,COL,3.915701,-73.073089,,res50m.geo.json,,GIVES-21,
+South America,Colombia,Cartagena,Cartagena,municipality,,10.3932,-75.4832,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21,
+Europe,Croatia,Croatia,Croatia,country,HRV,45.5643442,17.0118954,,res50m.geo.json,,GIVES-21,
+Europe,Croatia,Istria,Istria,region,,45.2649,13.9112,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Croatia,Primorsko-Goranska County,Primorsko-Goranska,region,,45.32608585,14.44314244,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Croatia,Rijeka and Istria,Rijeka and Istria,region,,45.353108,14.406824,6,regions_Europe1.geojson,"OSM and manually generated with geojson.io, combined with QGIS",GIVES-21 Update,
+Europe,Croatia,Vukovarsko-Srijemska County,Vukovarsko-Srijemska,region,,45.1938564,19.2642209,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Croatia,Zadar County,Zadar County,region,,44.1168594,15.2353257,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Croatia,Zagreb County,Zagreb County,region,,45.815,15.9819,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Croatia,Rijeka,Rijeka,municipality,,45.3271752,14.4412309,9,municipalities_Europe.geojson,Manually generated with geojson.io,GIVES-21 Update,
+Europe,Croatia,Zagreb,Zagreb,municipality,,45.8131847,15.9771774,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Asia,Cyprus,Cyprus,Cyprus,country,CYP,34.9823018,33.1451285,,res50m.geo.json,,GIVES-21,
+Asia,Cyprus,Nicosia,Nicosia,municipality,,35.1748976,33.3638568,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Europe,Czech Republic,Czech Republic,Czech Rep.,country,CZE,49.8167003,15.4749544,,res50m.geo.json,,GIVES-21,
+Europe,Czech Republic,Karlovy Vary Region,Karlovy Vary Region,region,,50.2306147,12.8699868,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Czech Republic,Liberec Region,Liberec Region,region,,50.7702648,15.0583947,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Czech Republic,"North Bohemia ( Ústí nad Labem Region, Karlovy Vary Region and Liberec Region)",North Bohemia,region,,50.6717,14.2289,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,Czech Republic,South Bohemia,South Bohemia,region,,48.9458,14.4416,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Czech Republic,Ústí nad Labem Region,Usti nad Labem Region,region,,50.6603327,14.0381357,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Czech Republic,Česká Lípa,Ceska Lipa,municipality,,50.681377,14.538836,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Chomutov,Chomutov,municipality,,50.461862,13.413599,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Děčín,Decin,municipality,,50.773762,14.214731,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Jablonec u Libčevsi,Jablonec,municipality,,50.723346,15.170153,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Liberec,Liberec,municipality,,50.767881,15.057322,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Litoměřice,Litomerice,municipality,,50.534271,14.13107,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Louny,Louny,municipality,,50.357625,13.805205,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,"Mis-spelled ""Lounty"" in MASTER"
+Europe,Czech Republic,Most,Most,municipality,,50.501811,13.637024,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Prague,Prague,municipality,,50.0596288,14.44645927,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Czech Republic,Teplice,Teplice,municipality,,50.6405665,13.827007,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Czech Republic,Ústí,Usti nad Labem,municipality,,50.660789,14.038783,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Denmark,Denmark,Denmark,country,DNK,55.670249,10.3333283,,res50m.geo.json,,GIVES-21,
+Europe,Denmark,Amager,Amager,region,,55.6108,12.6052,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Denmark,Copenhagen County,Copenhagen County,region,,55.74243237,12.41804133,6,regions_Europe1.geojson,OSM,GIVES-21 Update,"historical county, Hoj 1973"
+Europe,Denmark,Fünen,Funen,region,,55.32473,10.34711616,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Denmark,North Jutland,North Jutland,region,,56.8307,9.4931,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Denmark,Aarhus,ARHUS,municipality,,56.1496278,10.2134046,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21,
+Europe,Denmark,Copenhagen,COPENHAGEN,municipality,,55.6867243,12.5700724,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21,
+Europe,Denmark,Herlev,Herlev,municipality,,55.7337193,12.42945165,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Denmark,Herning,HERNING,municipality,,56.1379757,8.9746623,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21,
+Europe,Denmark,Viborg,VIBORG,municipality,,56.4469128,9.4059354,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21,
+Europe,Eastern Europe,Eastern Europe,Eastern Europe,region,,52.317294,33.61488,6,regions_Europe1.geojson,,Cost_map,
+Africa,Egypt,Egypt,Egypt,country,EGY,26.7565516,29.67983138,,res50m.geo.json,,GIVES-21 Update,
+Europe,United Kingdom,Leicester,LEICESTER,municipality,,52.63703216,-1.142785465,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21 Update,Jayanthi 1992
+Europe,Estonia,Estonia,Estonia,country,EST,58.7523778,25.3319078,,res50m.geo.json,,GIVES-21,
+Europe,Estonia,Põlva County,Polva County,region,,58.08061081,27.13961545,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Estonia,"Southern Estonia (Tartu, Polva, Voru and Valga Counties)",Southern Estonia,region,,60.1679695,24.9324388,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21 Update,
+Europe,Estonia,Tartu County,Tartu County,region,,58.42536156,26.86792928,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Estonia,Valga County,Valga County,region,,57.90804546,26.22077789,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Estonia,Võru County,Voru County,region,,57.8460239,26.9921421,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Estonia,Tartu,Tartu,municipality,,58.3801207,26.72245,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Faroe Islands,Faroe Islands,Faeroe Is.,country,FRO,62.0448724,-7.0322972,,res50m.geo.json,,GIVES-21,
+Europe,Finland,Finland,Finland,country,FIN,63.2467777,25.9209164,,res50m.geo.json,,GIVES-21,
+Europe,Finland,Southern Finland (Helsinki and Turku),Helsinki and Turku,region,,60.22489845,24.55253779,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21 Update,Jussila 2013
+Europe,Finland,Pirkanmaa,Pirkanmaa,region,,61.71743305,23.71571149,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Finland,Central Finland (Tampere and Kuopio),Tampere and Kuopio,region,,61.56624537,23.91917645,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21 Update,Jussila 2013
+Europe,Finland,Helsinki,Helsinki,municipality,,60.1674881,24.9427473,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Finland,Kuopio,Kuopio,municipality,,62.898,27.6782,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Finland,Oulu,Oulu,municipality,,65.0121,25.4651,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Finland,Tampere,Tampere,municipality,,61.4980214,23.7603118,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Finland,Turku (Abo),Turku,municipality,,60.4518,22.2666,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,France,France,France,country,FRA,46.603354,1.8883335,,res50m.geo.json,,GIVES-21,
+Europe,France,Brittany,Brittany,region,,48.2640845,-2.9202408,6,regions_Europe1.geojson,https://france-geojson.gregoiredavid.fr/,GIVES-21,the polygon available on OSM is 20MB
+Europe,France,Corsica,Corsica,region,,42.18808965,9.068413771,6,regions_Europe1.geojson,https://france-geojson.gregoiredavid.fr/,GIVES-21,the polygon available on OSM is 20MB
+North America,France,Guadeloupe,Guadeloupe,region,,16.2528827,-61.5686855,6,regions_NorthAmerica.geojson,OSM,GIVES-21,North America but belongs to the French
+North America,France,Guadeloupe and Martinique,Guadeloupe and Martinique,region,,13.0767974,-59.60318112,6,regions_NorthAmerica.geojson,"OSM, combined with QGIS",GIVES-21,North America but belongs to the French
+Europe,France,"Northern France (Nord, Pas-de-Calais, Somme)",Hauts-de-France,region,,49.9609,2.4613,6,regions_Europe1.geojson,https://france-geojson.gregoiredavid.fr/,GIVES-21,"Hauts-de-France is the state that encompasses Nord, Somme and Pas-de-Calais counties"
+North America,France,Martinique,Martinique,region,,14.6367927,-61.01582685,6,regions_NorthAmerica.geojson,OSM,GIVES-21,North America but belongs to the French
+Europe,France,Nord,Nord,region,,50.392222,3.286072369,6,regions_Europe1.geojson,OSM,GIVES-21 Update,Colombel 1989
+Europe,France,"Nord, Pas-de-Calais, Somme, Seine-Maritime","Nord, Pas-de-Calais, Somme and Seine-Maritime",region,,50.16020852,1.981257936,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21 Update,Chouraki 2011
+Europe,France,Nord-Pas-de-Calais,Pas-de-Calais,region,,50.52896905,2.454514909,6,regions_Europe1.geojson,OSM,GIVES-21,Nord-Pas-de-Calais is a historic administrative region
+Europe,France,Puy-de-Dôme,Puy-de-Dome,region,,45.7715343,3.083993421,6,regions_Europe1.geojson,https://france-geojson.gregoiredavid.fr/,GIVES-21,the polygon on OSM is too big
+Europe,France,Somme,Somme,region,,49.96894815,2.373885539,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,France,Amiens,Amiens,municipality,,49.8941708,2.2956951,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Germany,Germany,Germany,country,DEU,51.0834196,10.4234469,,res50m.geo.json,,GIVES-21,
+Europe,Germany,"Essen, Mülheim, Duisburg, Oberhausen","Essen, Mulheim, Duisburg and Oberhausen",region,,51.45355511,6.87839202,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21 Update,Goebell 1994
+Europe,Germany,Hesse,Hesse,region,,50.6521,9.1624,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Germany,North Rhine-Westphalia State,North Rhine-Westphalia,region,,51.4332,7.6616,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Germany,Oberpfalz,Oberpfalz,region,,49.4131419,12.13631609,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Germany,Ruhr,Ruhr,region,,51.5451,7.1981,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Germany,Essen and Mülheim,Western Ruhr,region,,51.43493843,6.952893059,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21 Update,Timmer 1999
+Europe,Germany,Cologne,Cologne,municipality,,50.938361,6.959974,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Germany,Duisburg,Duisburg,municipality,,51.434999,6.759562,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Germany,Essen,Essen,municipality,,51.4582235,7.0158171,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Germany,Marburg,Marburg,municipality,,50.807696,8.771883,9,municipalities_Europe.geojson,OSM,GIVES-21,"Called Marburg/Lahn at time of publication, as of 1992 it is just Marburg"
+Europe,Germany,Mulheim,Mulheim,municipality,,51.4272925,6.8829192,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Germany,Oberhausen,Oberhausen,municipality,,51.4696137,6.8514435,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Germany,Tübingen,Tubingen,municipality,,48.5236164,9.0535531,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Greece,Greece,Greece,country,GRC,38.9953683,21.9877132,,res50m.geo.json,,GIVES-21,
+Europe,Greece,Arta Prefecture,Arta Prefecture,region,,40.6084572,20.7799614,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Greece,Corfu Prefecture,Corfu Prefecture,region,,39.60060685,19.83491628,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Greece,Heraklion Prefecture,Heraklion Prefecture,region,,35.3400127,25.1343475,6,regions_Europe1.geojson,OSM,GIVES-21,
+Europe,Greece,Ioannina Prefecture,Ioannina Prefecture,region,,40.0807193,20.1392349,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Greece,Lefkas Prefecture,Lefkada Prefecture,region,,38.7056331,20.66240584,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Greece,"Northwest Greece (6 prefectures: Ioannina, Arta, Preveza, Thesprotia, Lefkas, and Corfu)",Northwestern Greece,region,,39.276015,20.630055,6,regions_Europe1.geojson,"OSM, combined with QGIS",GIVES-21 Update,
+Europe,Greece,Preveza Prefecture,Preveza,region,,38.9589226,20.7496811,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Greece,Thesprotia Prefecture,Thesprotia Prefecture,region,,39.53493523,20.3825554,6,regions_Europe1.geojson,OSM,GIVES-21 Update,
+Europe,Greece,Ioannina,IOANNINA,municipality,,39.6639818,20.8522784,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21,
+Europe,Greece,Trikala,Trikala,municipality,,39.5560869,21.7678844,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Greenland,Greenland,Greenland,country,GRL,77.6192349,-42.8125967,,res50m.geo.json,,GIVES-21,
+Asia,Hong Kong,Hong Kong,Hong Kong,country,HKG,22.2793278,114.1628131,,res50m.geo.json,,GIVES-21,
+Asia,Hong Kong,North East and Kowloon East Territory,Northeast and Kowloon East,region,,22.34674175,114.1967827,6,regions_Asia.geojson,"OSM, combined in qgis",GIVES-21 Update,"Ng 2013, North-east New territories is associated with Tai Po District (and maybe Sha-Tin?)"
+Asia,Hong Kong,Shatin & Sai Kung Districts,Shatin and Sai Kung Districts,region,,22.3847,114.2336,6,regions_Asia.geojson,Manually generated with geojson.io,GIVES-21,
+Asia,Hong Kong,Tuen Mun & Yuen Long districts,Tuen Mun and Yuen Long Districts,region,,22.424795,113.991065,6,regions_Asia.geojson,Manually generated with geojson.io,GIVES-21 Update,
+Asia,Hong Kong,"Queen Mary Hospital, Hong Kong","Western, Central and Southern Districts",region,,,,,,,GIVES-21 Update,"Lai 1985, Queen Mary Hospital"
+Asia,Hong Kong,Shatin district,Shatin,municipality,,22.38031698,114.1958972,9,municipalities_Asia.geojson,Manually generated with geojson.io,GIVES-21 Update,
+Europe,Hungary,Hungary,Hungary,country,HUN,47.1817585,19.5060937,,res50m.geo.json,,GIVES-21,
+Europe,Hungary,Central Hungary,Central Hungary,region,,47.48331763,19.45815884,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kurti 2016
+Europe,Hungary,Central Transdanubia,Central Transdanubia,region,,47.46013849,18.16019926,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kurti 2016
+Europe,Hungary,Northern  Great Plain,Northern Great Plain,region,,47.62533993,21.10314379,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kurti 2016
+Europe,Hungary,Northern Hungary,Northern Hungary,region,,48.04555133,20.47633478,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kurti 2016
+Europe,Hungary,Southern Great Plain,Southern Great Plain,region,,46.5312909,19.8317496,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kurti 2016
+Europe,Hungary,Southern Transdanubia,Southern Transdanubia,region,,46.52427467,18.00380225,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kurti 2016
+Europe,Hungary,Veszprém County,Veszprem,region,,47.0928058,17.9140147,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Hungary,Western Transdanubia,Western Transdanubia,region,,47.29674679,16.94240337,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kurti 2016
+Europe,Hungary,Debrecín,Debrecen,municipality,,47.5289,21.6254,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Iceland,Iceland,Iceland,country,ISL,64.9841821,-18.1059013,,res50m.geo.json,,GIVES-21,
+Europe,Iceland,Reykjavík,Reykjavik,municipality,,64.145981,-21.9422367,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Asia,India,India,India,country,IND,22.3511148,78.6677428,,res50m.geo.json,,GIVES-21,
+Asia,India,Delhi,Delhi,region,,28.622566,77.20565,6,regions_Asia.geojson,OSM,GIVES-21 Update,
+Asia,India,Kerala,Kerala,region,,10.3528744,76.5120396,6,regions_Asia.geojson,OSM,GIVES-21 Update,
+Asia,India,Punjab,Punjab,region,,30.9293211,75.5004841,6,regions_Asia.geojson,OSM,GIVES-21,
+Asia,India,Hyderabad,Hyderabad,municipality,,17.360589,78.4740613,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,Indonesia,Indonesia,Indonesia,country,IDN,-2.4833826,117.8902853,,res50m.geo.json,,GIVES-21,
+Asia,Indonesia,Central Jakarta,Central Jakarta,municipality,,-6.18233995,106.8428715,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,Iran,Iran,Iran,country,IRN,32.6475314,54.5643516,,res50m.geo.json,,GIVES-21,
+Asia,Iran,Kermanshah Province,Kermanshah Province,region,,34.3789744,46.7010122,6,regions_Asia.geojson,OSM,GIVES-21 Update,
+Asia,Iran,Kerman,Kerman,municipality,,29.571858,57.301047,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,Iran,Guilan Province,Guilan Province,region,,37.125564,49.76455,6,regions_Asia.geojson,OSM,GIVES-21,
+Europe,Ireland,Ireland,Ireland,country,IRL,52.865196,-7.9794599,,res50m.geo.json,,GIVES-21,
+Europe,Ireland,County Meath,County Meath,region,,53.64978435,-6.588529492,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Ireland,Adelaide and Meath Hospital,Meath and Dublin,region,,53.2911931,-6.378828006,6,regions_Europe2.geojson,"OSM, combined with QGIS",GIVES-21 Update,
+Europe,Ireland,Dublin,Dublin,municipality,,53.3497645,-6.2602732,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Asia,Israel,Israel,Israel,country,ISR,31.5313113,34.8667654,,res50m.geo.json,,GIVES-21,
+Asia,Israel,Beer Sheva and Northern Negev,Beer Sheva and Northern Negev,region,,31.12275334,34.83720424,,,,GIVES-21 Update,Vegh 2014
+Asia,Israel,Kibbutz Settlements Throughout Israel,Kibbutz settlements throughout Israel,region,,32.567856,35.021334,,,,GIVES-21,"need a more specific geographic description, maybe same as Upper Galilee b/c same population studied in both papers just region described differently"
+Asia,Israel,Upper Galilee,Upper Galilee,region,,33.164,35.6314,6,regions_Asia.geojson,Manually generated with geojson.io,GIVES-21,
+Asia,Israel,Beer Sheva,Beer Sheva,municipality,,31.2457442,34.7925181,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,Israel,Jerusalem,Jerusalem,municipality,,31.7788242,35.2257626,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,Israel,Kinneret,Kinneret,municipality,,32.7231985,35.56444,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,Israel,Tel Aviv,Tel Aviv-Yafo,municipality,,32.0852997,34.7818064,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Europe,Italy,Italy,Italy,country,ITA,42.6384261,12.674297,,res50m.geo.json,,GIVES-21,
+Europe,Italy,Apulia,Apulia,region,,40.9842539,16.6210027,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Avellino,Avellino,region,,-12.2152921,-75.1162281,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Barletta-Andria-Trani Province (Apulia Region),Barletta-Andria-Trani Province,region,,41.27364622,16.33066947,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Tursi 2013
+Europe,Italy,Belluno,Belluno,region,,46.2805407,12.07891372,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Crema-Cremona,Crema and Cremona,region,,45.22661891,9.882414596,6,regions_Europe2.geojson,"OSM, combined with QGIS",GIVES-21 Update,Shivananda 1996
+Europe,Italy,Cremona,Cremona,region,,45.22086405,10.03703798,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Friuli Venezia Giulia Region,Friuli-Venezia Giulia,region,,46.3015489,12.71844812,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Italy,Lombardia,Lombardia,region,,45.5703694,9.7732524,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Milan/Varese,Milan and Varese,region,,45.6296273,8.723547469,6,regions_Europe2.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,Italy,"Northern Italy (Padua, Florence, Cremona and Crema, Forlì, and Reggio Emili)",Northern Italy (Counties),region,,45.104707,10.957722,6,regions_Europe2.geojson,"OSM, combined with QGIS",GIVES-21 Update,Padua = Padova
+Europe,Italy,"Northern Italy (Emilia-Romagna, Lombardia, Toscana, Veneto)",Northern Italy (Provinces),region,,44.2871,11.4728,6,regions_Europe2.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,Italy,Palermo,Palermo,region,,38.1112268,13.3524434,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Reggio Emilia,Reggio Emilia,region,,44.608664,10.59479684,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,"Other areas of Sicily, not including Casteltermini.",Rural Sicily,region,,,,,,,GIVES-21 Update,Cottone 2006
+Europe,Italy,Sardinia,Sardinia,region,,40.1209,9.0129,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Sicily,Sicily,region,,37.6,14.0154,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Tuscany,Tuscany,region,,43.4586541,11.1389204,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Veneto,Veneto,region,,45.6476663,11.8665254,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Italy,Bologna,Bologna,municipality,,44.4938203,11.3426327,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Casteltermini,Casteltermini,municipality,,37.5232884,13.62172147,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Crema,Crema,municipality,,45.362828,9.6874573,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Florence,Florence,municipality,,43.7698712,11.2555757,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Folrì,Forli,municipality,,44.2227278,12.041273,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,L’Aquila,L’Aquila,municipality,,42.1368853,13.61034102,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Messina,Messina,municipality,,38.1937571,15.5542082,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Milan,Milan,municipality,,45.477399,9.19112,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Italy,Modena,Modena,municipality,,44.5384728,10.93596087,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Padova,Padova,municipality,,45.4077172,11.8734455,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Italy,Varese,Varese,municipality,,45.83971285,8.754157595,9,municipalities_Europe.geojson,OSM,,
+Asia,Japan,Japan,Japan,country,JPN,36.5748441,139.2394179,,res50m.geo.json,,GIVES-21,
+Asia,Kazakhstan,Kazakhstan,Kazakhstan,country,KAZ,48.796386,66.901253,,res50m.geo.json,,GIVES-21 Update,
+Asia,Kuwait,Kuwait,Kuwait,country,KWT,29.2733964,47.4979476,,res50m.geo.json,,GIVES-21,
+Europe,Latvia,Latvia,Latvia,country,LVA,56.8796,24.6032,,res50m.geo.json,,GIVES-21,
+Asia,Lebanon,Lebanon,Lebanon,country,LBN,33.8750629,35.843409,,res50m.geo.json,,GIVES-21,
+Asia,Lebanon,Beirut,Beirut,municipality,,33.8959203,35.47843,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Europe,Lithuania,Lithuania,Lithuania,country,LTU,55.3500003,23.7499997,,res50m.geo.json,,GIVES-21,
+Europe,Lithuania,Kaunas Region,Kaunas Region,region,,55.00419371,23.95269283,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Kiudelis 2012
+Europe,Lithuania,Kaunas,Kaunas,municipality,,54.8982139,23.9044817,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Luxembourg,Luxembourg,Luxembourg,country,LUX,49.8153,6.1296,,res50m.geo.json,,GIVES-21,
+Asia,Malaysia,Malaysia,Malaysia,country,MYS,4.5693754,102.2656823,,res50m.geo.json,,GIVES-21,
+Asia,Malaysia,Johor,Johor,region,,2.0229012,103.3147721,6,regions_Asia.geojson,OSM,GIVES-21 Update,
+Asia,Malaysia,Kinta Valley,Kinta Valley,region,,4.5643773,101.2964518,6,regions_Asia.geojson,OSM,GIVES-21,
+Asia,Malaysia,Kuala Lumpur,Kuala Lumpur,municipality,,3.139,101.6869,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Europe,Malta,Malta,Malta,country,MLT,35.8885993,14.4476911,,res50m.geo.json,,GIVES-21,
+North America,Mexico,Mexico,Mexico,country,MEX,23.6345,-102.5528,,res50m.geo.json,,GIVES-21,
+Europe,Moldova,Moldova,Moldova,country,MDA,47.2879608,28.5670941,,res50m.geo.json,,GIVES-21,
+Europe,Moldova,Chișinău,Chisinau,municipality,,47.0245117,28.8322923,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Asia,Nepal,Nepal,Nepal,country,NPL,28.5721487,84.11683908,,res50m.geo.json,,GIVES-21 Update,Pandit N; Awale L; Sah SP; Gupta RK; Jaiswal LS; Upadhyaya P; Adhikary S 2018
+Asia,Nepal,BP Koirala Institute of Health Sciences,Sunsari,region,,26.812238,87.268495,6,regions_Asia.geojson,OSM,GIVES-21 Update,
+Europe,Netherlands,Netherlands,Netherlands,country,NLD,52.15517,5.38721,,res50m.geo.json,,GIVES-21,
+Europe,Netherlands,Alphen,Alphen,region,,51.4829194,4.9553103,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Netherlands,Central Netherlands,Central Netherlands,region,,52.0928,5.744,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Netherlands,Regio Leiden,Leiden Region,region,,52.155023,4.493551,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Netherlands,Limburg,Limburg,region,,51.4427,6.0609,6,regions_Europe2.geojson,OSM,GIVES-21,
+Europe,Netherlands,South Limburg,South Limburg,region,,51.4427,6.0609,6,regions_Europe2.geojson,"gadm.org, combined with QGIS",GIVES-21,
+Europe,Netherlands,Amsterdam,Amsterdam,municipality,,52.3676,4.9041,9,municipalities_Europe.geojson,OSM,Cost_map,
+Europe,Netherlands,Leiden,Leiden,municipality,,52.1518157,4.481108867,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Netherlands,Maastricht,Maastricht,municipality,,50.8512438,5.6909768,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Oceania,New Zealand,New Zealand,New Zealand,country,NZL,-41.5000831,172.8344077,,res50m.geo.json,,GIVES-21,
+Oceania,New Zealand,Canterbury,Canterbury,region,,-43.7542,171.1637,6,regions_Oceania.geojson,OSM,GIVES-21,
+Oceania,New Zealand,Otago,Otago,region,,-45.39750525,170.1778918,6,regions_Oceania.geojson,OSM,GIVES-21,
+Oceania,New Zealand,Lakes District Health Board,Rotorua and Taupo,region,,-38.3785573,176.1862753,6,regions_Oceania_simp.geojson,"OSM, combined with QGIS",GIVES-21 Update,
+Oceania,New Zealand,Rotorua District,Rotorua District,region,,-38.14997483,176.309417,6,regions_Oceania_simp.geojson,OSM,GIVES-21 Update,
+Oceania,New Zealand,Taupō District,Taupo District,region,,-38.68379866,176.082647,6,regions_Oceania_simp.geojson,OSM,GIVES-21 Update,
+Oceania,New Zealand,Waikato,Waikato,region,,-37.77922725,175.2010323,6,regions_Oceania.geojson,OSM,GIVES-21 Update,
+Oceania,New Zealand,Auckland,AUCKLAND,municipality,,-36.888464,174.762837,9,municipalities_Oceania.geojson,cities_edited.json,GIVES-21 Update,
+Oceania,New Zealand,Dunedin,DUNEDIN,municipality,,-45.875717,170.498054,9,municipalities_Oceania.geojson,cities_edited.json,GIVES-21 Update,
+Oceania,New Zealand,Rotorua,ROTORUA,municipality,,-38.141052,175.238689,9,municipalities_Oceania.geojson,cities_edited.json,GIVES-21 Update,
+Europe,Norway,Norway,Norway,country,NOR,60.5000209,9.0999715,,res50m.geo.json,,GIVES-21,
+Europe,Norway,Central Health Region,Central Norway,region,,62.9662,9.8103,6,regions_Europe2.geojson,"gadm.org, combined with QGIS",GIVES-21,
+Europe,Norway,Finnmark,Finnmark,region,,69.1964,24.6288,6,regions_Europe2.geojson,gadm.org,GIVES-21,"historic county, now the north half of Troms og Finnmark"
+Europe,Norway,Hordaland,Hordaland,region,,60.50107947,5.907716347,6,regions_Europe2.geojson,gadm.org,GIVES-21 Update,"historic county, now the southern half of Vestland"
+Europe,Norway,Nordland,Nordland,region,,67.6899,12.751,6,regions_Europe2.geojson,gadm.org,GIVES-21,
+Europe,Norway,North Health Region,Northern Norway,region,,69.1682,19.0117,4,regions_Europe2.geojson,"gadm.org, combined with QGIS",GIVES-21,
+Europe,Norway,"Oslo, Østfold, Telemark, and Aust-Agder",Oslo Ostfold Telemark and Aust-Agder,region,,59.82341015,10.18571996,6,regions_Europe2.geojson,"gadm.org, combined with QGIS",GIVES-21 Update,
+Europe,Norway,Rogaland,Rogaland,region,,58.93631375,5.805878643,6,regions_Europe2.geojson,gadm.org,GIVES-21 Update,
+Europe,Norway,Sogn and Fjordane,Sogn og Fjordane,region,,61.2071553,6.5981695,6,regions_Europe2.geojson,gadm.org,GIVES-21 Update,"historic county, now the north half of Vestland"
+Europe,Norway,South-East Health Region,Southeast Norway,region,,60.3359,11.0297,6,regions_Europe2.geojson,"gadm.org, combined with QGIS",GIVES-21,
+Europe,Norway,Troms,Troms,region,,69.8699347,21.82727855,6,regions_Europe2.geojson,gadm.org,GIVES-21,"historic county, now the south half of Troms og Finnmark"
+Europe,Norway,West Health Region,Western Norway,region,,60.7719,6.1888,4,regions_Europe2.geojson,"gadm.org, combined with QGIS",GIVES-21,
+Europe,Norway,Oslo,Oslo,municipality,,59.9133301,10.7389701,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Asia,Oman,Oman,Oman,country,OMN,20.071517,56.667699,,res50m.geo.json,,GIVES-21 Update,
+North America,Panama,Panama,Panama,country,PAN,8.559559,-81.1308434,,res50m.geo.json,,GIVES-21,
+North America,Panama,Colón,Colon,region,,9.3553005,-79.8974085,6,regions_NorthAmerica.geojson,OSM,GIVES-21,
+Asia,Philippines,Philippines,Philippines,country,PHL,12.7503486,122.7312101,,res50m.geo.json,,GIVES-21,
+Asia,Philippines,Manila,Manila,municipality,,14.5948914,120.9782618,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Europe,Poland,Poland,Poland,country,POL,52.215933,19.134422,,res50m.geo.json,,GIVES-21,
+Europe,Poland,Greater Poland,Greater Poland,region,,52.37445505,17.06133724,6,regions_Europe2.geojson,OSM,GIVES-21 Update,Holko 2018
+Europe,Poland,Kuyavian-Pomeranian,Kuyavian-Pomeranian,region,,53.3220016,18.3392939,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Lesser Poland,Lesser Poland,region,,49.790952,20.3793521,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Lower Silesian,Lower Silesian,region,,50.95083795,16.3612487,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Lubusz,Lubusz,region,,52.1001754,15.3605075,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Masovian,Masovian,region,,52.5461934,21.2073404,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Podlaskie,Podlaskie,region,,53.2668455,22.8525787,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Pomeranian,Pomeranian,region,,53.3220016,18.3392939,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Silesian,Silesian,region,,50.95083795,16.3612487,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Subcarpathian,Subcarpathian,region,,50.839084,4.401778857,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Świętokrzyskie Province,Swietokrzyskie,region,,50.710356,20.76254,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Warmian-Masurian,Warmian-Masurian,region,,53.9311892,21.1260808,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,West Pomeranian,West Pomeranian,region,,53.91692155,14.24838117,6,regions_Europe2.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Łódź,Lodz,municipality,,51.766869,19.458264,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Lublin,Lublin,municipality,,51.245605,22.555186,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Opole,Opole,municipality,,50.666972,17.930316,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Poland,Warsaw,Warsaw,municipality,,52.2319581,21.0067249,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Portugal,Portugal,Portugal,country,PRT,40.0332629,-7.8896263,,res50m.geo.json,,GIVES-21,
+Europe,Portugal,Vale do Sousa,Vale do Sousa,region,,39.7987265,-8.754088,6,regions_Europe2.geojson,"OSM, combined with QGIS",GIVES-21,castelo de paiva + Pacos de Ferreira + Penafiel + Felgueiras + Paredes + Lousada
+Europe,Portugal,Almada,Almada,municipality,,38.6831302,-9.1576301,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Portugal,Braga,Braga,municipality,,41.5510583,-8.4280045,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Portugal,Figueira da Foz,Figueira da Foz,municipality,,40.156192,-8.865159,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Portugal,Porto,Porto,municipality,,41.1579,-8.6291,9,municipalities_Europe.geojson,OSM,GIVES-21,
+North America,Puerto Rico,Puerto Rico,Puerto Rico,country,PRI,18.19897685,-66.26152219,,res50m.geo.json,,GIVES-21,
+North America,Puerto Rico,"Southwest Puerto Rico (Guayama, Ponce, San German, Yauco, and Mayagüez)",Southwest Puerto Rico,region,,18.10997,-66.588389,6,regions_NorthAmerica.geojson,"OSM, combined with QGIS",GIVES-21 Update,Five cities
+North America,Puerto Rico,Guayama,Guayama,municipality,,17.9852036,-66.113567,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,Puerto Rico,Mayagüez,Mayaguez,municipality,,18.2011161,-67.1391124,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,Puerto Rico,Ponce,Ponce,municipality,,18.011564,-66.613958,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,Puerto Rico,San Germán,San German,municipality,,18.08116303,-67.04255142,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,Puerto Rico,San Juan,San Juan,municipality,,18.4655,66.1057,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,Puerto Rico,Yauco,Yauco,municipality,,18.0352547,-66.8487055,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+Asia,Qatar,Doha,Doha,municipality,,25.292995,51.509935,9,municipalities_Asia.geojson,OSM,GIVES-21 Update,
+Europe,Romania,Romania,Romania,country,ROU,45.9852129,24.6859225,,res50m.geo.json,,GIVES-21,
+Europe,Romania,Central Romania,Central Romania,region,,46.6680813,24.631982,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,Northeast Romania,Northeast Romania,region,,46.772359,27.07091,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,Northwest Romania,Northwest Romania,region,,46.020555,21.518654,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,South Romania,South Romania,region,,44.267946,24.280925,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,Southeast Romania,Southeast Romania,region,,44.400106,28.234944,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,Southwest Romania,Southwest Romania,region,,44.380301,23.560332,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,Timiș,Timis,region,,45.69131845,21.63212683,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,West Romania,West Romania,region,,45.6327675,22.07590611,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Romania,Bucharest,Bucharest,municipality,,44.4361414,26.1027202,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Romania,Constanța,Constanta,municipality,,44.166001,28.624168,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Russia,Russia,Russia,country,RUS,64.6863136,97.7453061,,res50m.geo.json,,GIVES-21,
+Asia,Russia,Zabaykalsky Krai,Zabaykalsky Krai,region,,52.09662414,115.553946,6,regions_Asia_simp.geojson,OSM,GIVES-21 Update,
+Europe,Russia,Moscow,Moscow,municipality,,55.7504461,37.6174943,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,San Marino,San Marino,San Marino,country,SMR,43.9458623,12.458306,,res50m.geo.json,,GIVES-21,
+Asia,Saudi Arabia,Saudi Arabia,Saudi Arabia,country,SAU,25.6242618,42.3528328,,res50m.geo.json,,GIVES-21,
+Asia,Saudi Arabia,Riyadh,AR RIYAD,municipality,,24.638916,46.7160104,9,municipalities_Asia.geojson,cities_edited.json,GIVES-21,
+Europe,Serbia,Serbia,Serbia,country,SRB,44.314735,20.767076,,res50m.geo.json,,GIVES-21 Update,
+Europe,Serbia,Zvezdara,Zvezdara,municipality,,44.785087,20.525438,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Asia,Singapore,Singapore,Singapore,country,SGP,1.357107,103.8194992,,res50m.geo.json,,GIVES-21,
+Europe,Slovakia,Slovakia,Slovakia,country,SVK,48.7411522,19.4528646,,res50m.geo.json,,GIVES-21,
+Europe,Slovenia,Slovenia,Slovenia,country,SVN,46.1512,14.9955,,res50m.geo.json,,GIVES-21,
+Africa,South Africa,South Africa,South Africa,country,ZAF,-28.8166236,24.991639,,res50m.geo.json,,GIVES-21,
+Africa,South Africa,KwaZulu-Natal Province,KwaZulu-Natal,region,,-28.5306,30.8958,6,regions_Africa_simp.geojson,OSM,GIVES-21 Update,
+Africa,South Africa,Cape Town,CAPE TOWN,municipality,,-33.928992,18.417396,9,municipalities_Africa,cities_edited.json,GIVES-21,
+Africa,South Africa,Durban,DURBAN,municipality,,-29.871292,30.960167,9,municipalities_Africa,cities_edited.json,GIVES-21 Update,
+Asia,South Korea,South Korea,South Korea,country,KOR,36.638392,127.6961188,,res50m.geo.json,,GIVES-21,
+Asia,South Korea,"Songpa-Kangdong, Seoul",Songpa-gu,municipality,,37.5145,127.1066,9,municipalities_Asia.geojson,OSM,GIVES-21,cannot find Songpa-Kangdong anywhere
+Europe,Spain,Spain,Spain,country,ESP,39.3260685,-4.8379791,,res50m.geo.json,,GIVES-21,
+Europe,Spain,El Andévalo,Andevalo,region,,37.7334975,-6.9384854,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Aragón,Aragon,region,,41.3787291,-0.7639373,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Asturias,Asturias,region,,43.2710878,-5.854145745,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Cádiz: city in Costa del Sol (coastline region in Malaga Province),Cadiz,region,,36.52100671,-6.279892348,6,regions_Europe3.geojson,OSM,GIVES-21 Update,Rivera Irigoin 2007
+Europe,Spain,Campo Arañuelo (region within the province of Cáceres),Campo Aranuelo,region,,39.87196962,-5.569329789,6,regions_Europe3.geojson,OSM,GIVES-21 Update,Anton Martinez 2010
+Europe,Spain,Cantabria,Cantabria,region,,43.1595664,-4.0878382,6,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Spain,Castellón,Castellon,region,,40.25185675,-0.06150511,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Castilla y León,Castilla y Leon,region,,41.87225375,-4.585944809,6,regions_Europe_simp.geojson,OSM,GIVES-21 Update,
+Europe,Spain,Catalonia,Catalonia,region,,41.8523094,1.5745043,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Coín-Guadahorce: village (and surrounding area?) in Costa del Sol (coastline region in Malaga Province),Coin,region,,36.66040372,-4.756336523,6,regions_Europe3.geojson,OSM,GIVES-21 Update,Rivera Irigoin 2007
+Europe,Spain,Córdoba and Sevilla,Cordoba and Sevilla,region,,37.45803946,-5.836735086,6,regions_Europe3.geojson,OSM,GIVES-21 Update,Chaaro Benallal D; Guerra Veloz MF; Arguelles-Arias F; Benitez JM; Perea Amarillo R; Iglesias E; Castro Laria L; Sanchez Garcia V; Maldonado Perez MB; Vilches A; Caunedo Alvarez A; Romero Gomez M 2017
+Europe,Spain,Costa Del Sol,Costa del Sol,region,,-46.4574282,-67.4983263,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Cuenca Minera,Cuenca Minera,region,,37.65656385,-6.675658588,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Galicia,Galicia,region,,42.61946,-7.863112,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,Granada Province,Granada Province,region,,37.21050982,-3.355655008,6,regions_Europe3.geojson,OSM,GIVES-21 Update,Martinez-Salmeron 1993
+Europe,Spain,La Rioja,La Rioja,region,,42.2814642,-2.482804975,6,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Spain,Madrid and Soria,Madrid and Soria,region,,40.65179096,-3.292113492,6,regions_Europe3.geojson,OSM,GIVES-21 Update,Mate-Jimenez  1994
+Europe,Spain,Mallorca,Mallorca,region,,39.613432,2.880353636,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,"Mallorca, Motril, Sabadell, Vigo","Mallorca, Motril, Sabadell and Vigo",region,,40.05169081,-1.260304846,6,regions_Europe3.geojson,"OSM, combined with QGIS",GIVES-21 Update,Brullet 1998
+Europe,Spain,Navarre,Navarre,region,,42.61254875,-1.830787673,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Spain,"Northern Huelva (Andevalo, Cuenca Minera, Sierra)",Northern Huelva,region,,37.277765,-6.927932,6,regions_Europe3.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,Spain,Sierra de Huelva,Sierra,region,,37.93557958,-6.706817295,6,regions_Europe3.geojson,OSM,GIVES-21,Garrido 2004
+Europe,Spain,La Safor (Valencia),Valenciana,region,,38.9877285,-0.221281256,6,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Spain,"Sabadell, Barberà, Castellar, Sant Quirze, Cerdanyola, Ripollet, Santa Perpètua",Valles Occidental,region,,41.57991284,2.096775552,6,regions_Europe3.geojson,OSM,GIVES-21 Update,Brullet 1991
+Europe,Spain,Barcelona,Barcelona,municipality,,41.3874,2.1686,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Cáceres,Caceres,municipality,,39.4745175,-6.3716761,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Ciudad Real,Ciudad Real,municipality,,38.95973475,-3.88287444,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Cuenca,Cuenca,municipality,,40.0681156,-2.1348241,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Gijón,Gijon,municipality,,45.535032,-5.666395,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Spain,Granada,Granada,municipality,,37.1734995,-3.5995337,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Madrid,Madrid,municipality,,40.4167047,-3.7035825,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Málaga,Malaga,municipality,,36.7213028,-4.4216366,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Mérida,Merida,municipality,,38.9174665,-6.3443977,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Motril,Motril,municipality,,36.7450888,-3.5207655,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Oviedo,Oviedo,municipality,,43.3604218,-5.8450534,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Palencia,Palencia,municipality,,42.4096322,-4.61610041,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Spain,Pamplona,Pamplona,municipality,,42.8184538,-1.6442556,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Sabadell,Sabadell,municipality,,41.5421013,2.1138977,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Sagunto,Sagunto,municipality,,39.6792916,-0.2786451,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Health Area of Santiago de Compostela,Santiago de Compostela,municipality,,42.87932308,-8.539619917,9,municipalities_Europe.geojson,OSM,GIVES-21 Update,
+Europe,Spain,Soria,Soria,municipality,,41.7666,2.479,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Spain,Vigo,Vigo,municipality,,42.2376602,-8.7247205,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Asia,Sri Lanka,Sri Lanka,Sri Lanka,country,LKA,7.87739585,80.66247852,,res50m.geo.json,,GIVES-21,
+Asia,Sri Lanka,Central Province,Central Province (LKA),region,,-14.183507,29.0375543,6,regions_Asia.geojson,OSM,GIVES-21 Update,
+Asia,Sri Lanka,Columbo And Gampaha,Columbo and Gampaha,region,,6.9877,79.959,6,regions_Asia.geojson,"OSM, combined in qgis",GIVES-21,
+Asia,Sri Lanka,Columbo District,Columbo District,region,,6.93178,79.863385,6,regions_Asia.geojson,OSM,GIVES-21 Update,
+Asia,Sri Lanka,Gampaha District,Gampaha District,region,,7.0713,80.0088,6,regions_Asia.geojson,OSM,GIVES-21,
+Europe,Sweden,Sweden,Sweden,country,SWE,59.6749712,14.5208584,,res50m.geo.json,,GIVES-21,
+Europe,Sweden,Region Jämtland Härjedalen,Jamtland,region,,62.271278,13.59148986,6,regions_Europe_simp.geojson,OSM,GIVES-21 Update,
+Europe,Sweden,Norrbotten and Västerbotten,Norrbotten and Vasterbotten,region,,50.8471991,4.381742,6,regions_Europe3.geojson,"OSM, combined with QGIS",GIVES-21 Update,
+Europe,Sweden,Norrbotten County,Norrbotten County,region,,66.9798719,20.00030081,6,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Sweden,Skåne County,Skane County,region,,55.8521812,13.63496975,6,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Sweden,Stockholm County,Stockholm County,region,,59.3901513,18.66427492,6,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Sweden,Uppsala and Västmanland counties,Uppsala and Vastmanland,region,,59.82886269,16.83606837,6,regions_Europe3.geojson,"OSM, combined with QGIS",GIVES-21 Update,Bergman 1975
+Europe,Sweden,Uppsala County,Uppsala County,region,,60.1486,17.6249561,4,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Sweden,Västerbotten,Vasterbotten,region,,64.2825306,20.4961141,6,regions_Europe3.geojson,OSM,GIVES-21 Update,
+Europe,Sweden,Göteborg,Goteborg,municipality,,57.7089,11.9746,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Sweden,Linköping,Linkoping,municipality,,58.4098135,15.6245252,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Sweden,Malmö,Malmo,municipality,,55.6052931,13.0001566,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Sweden,Örebro,Orebro,municipality,,59.2747287,15.2151181,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Sweden,Stockholm,STOCKHOLM,municipality,,59.3251172,18.0710935,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Sweden,Umeå,Umea,municipality,,63.8256568,20.2630745,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Sweden,Uppsala,Uppsala,municipality,,59.8586126,17.6387436,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,Switzerland,Switzerland,Switzerland,country,CHE,46.7985624,8.2319736,,res50m.geo.json,,GIVES-21,
+Europe,Switzerland,Vaud,Vaud,region,,46.5613,6.5368,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Switzerland,Basel,Basel,municipality,,47.552506,7.594803,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Asia,Taiwan,Taiwan,Taiwan,country,TWN,23.9739374,120.9820179,,res50m.geo.json,,GIVES-21,
+Africa,Tanzania,Zanzibar,Zanzibar,region,,-5.700158011,39.50874361,6,regions_Africa_simp.geojson,OSM,GIVES-21 Update,
+Asia,Thailand,Thailand,Thailand,country,THA,14.8971921,100.83273,,res50m.geo.json,,GIVES-21,
+Asia,Thailand,Chiang Mai and Chiang Rai,Chiang Mai and Chiang Rai,region,,18.7949219,98.9636728,6,regions_Asia.geojson,"OSM and cities_edited.json, manually combined",GIVES-21 Update,
+Asia,Thailand,Bangkok,Bangkok,municipality,,13.7525438,100.4934734,9,municipalities_Asia.geojson,OSM,GIVES-21,
+Asia,Thailand,Chiang Mai,CHIANG MAI,municipality,,18.7882778,98.9858802,9,municipalities_Asia.geojson,cities_edited.json,GIVES-21,
+Asia,Thailand,Chiang Rai,Chiang Rai,municipality,,19.902308,99.830471,9,municipalities_Asia.geojson,Manually generated with geojson.io,GIVES-21,
+Europe,Turkey,Turkey,Turkey,country,TUR,38.9597594,34.9249653,,res50m.geo.json,,GIVES-21,
+Europe,Turkey,Western Black Sea Region,Black Sea Region,region,,41.0084962,32.312417,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Turkey,Edirne,Edirne,region,,41.6759327,26.5587225,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Turkey,Kirklareli,Kirklareli,region,,41.7078046,27.6051334,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Turkey,Tekirdağ,Tekirdag,region,,41.1185843,27.4144196,6,regions_Europe3.geojson,OSM,GIVES-21,
+Europe,Turkey,"Trakya (Edirne, Tekirdag and Kirklareli provinces)",Trakya,region,,41.6753,26.5602,6,regions_Europe3.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,Turkey,Ankara,ANKARA,municipality,,39.9334,32.8597,9,municipalities_Europe.geojson,cities_edited.json,GIVES-21,
+Europe,United Kingdom,United Kingdom,United Kingdom,country,GBR,54.7023545,-3.2765753,,res50m.geo.json,,GIVES-21,
+Europe,United Kingdom,Barry,Barry,region,,51.409507,-3.271602,9,regions_Europe4.geojson,OSM,GIVES-21 Update,"Mayberry 1980, see https://www.genuki.org.uk/big/wal/GHP/welshcounties"
+Europe,United Kingdom,"Blackpool, Wyre, and Fylde health authority","Blackpool, Wyre and Fylde",region,,53.829304,-2.94368,6,regions_Europe4.geojson,"OSM, combined with QGIS",GIVES-21 Update,Lee 1994
+Europe,United Kingdom,Brent,Brent,region,,51.5639957,-0.275906414,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Brent & Harrow,Brent and Harrow,region,,51.5543503,-0.3161206,6,regions_Europe4.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,United Kingdom,Caerphilly,Caerphilly,region,,51.580581,-3.217622,9,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,"Bedfordshire, Buckinghamshire, Cambridgeshire, Norfolk, Northamptonshire, Oxfordshire and Suffolk, and Berkshire",Central England,region,,52.265002,0.364972,6,regions_Europe4.geojson,"gadm.org, combined with QGIS",GIVES-21 Update,Seagroatt 2003
+Europe,United Kingdom,Clwyd,Clwyd,region,,53.100121,-3.167636,6,regions_Europe_simp.geojson,"gadm.org, combined with QGIS",GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Colwyn Bay,Colwyn Bay,region,,53.292064,-3.728706,9,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Cwmbran,Cwmbran,region,,51.649762,-3.027892,9,regions_Europe_simp.geojson,Manually generated with QGIS,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Dyfed,Dyfed,region,,52.097114,-4.170695,6,regions_Europe_simp.geojson,"gadm.org, combined with QGIS",GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,East Lothian,East Lothian,region,,55.915797,-2.7511952,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,East Yorkshire,East Riding of Yorkshire,region,,53.9112323,-0.5813105,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,England,England,region,,52.3555,-1.1743,6,regions_Europe4.geojson,https://www.kaggle.com/datasets/dorianlazar/uk-regions-geojson?resource=download,GIVES-21,
+Europe,United Kingdom,England & Wales,England and Wales,region,,53.3418732,-1.2789459,6,regions_Europe4.geojson,"https://www.kaggle.com/datasets/dorianlazar/uk-regions-geojson?resource=download, combined with QGIS",GIVES-21,
+Europe,United Kingdom,"England, Scotland, Wales","England, Scotland and Wales",region,,54.37271,-2.405452,6,regions_Europe4.geojson,"https://www.kaggle.com/datasets/dorianlazar/uk-regions-geojson?resource=download, combined with QGIS",GIVES-21 Update,Montgomery 1998
+Europe,United Kingdom,Grampian and Northern Islands,Grampian and Northern Islands,region,,57.616878,-2.150881,6,regions_Europe4.geojson,"OSM, combined with QGIS",GIVES-21,Kyle 1992
+Europe,United Kingdom,Gwent,Gwent,region,,51.728299,-2.824538,6,regions_Europe_simp.geojson,"gadm.org, combined with QGIS",GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Gwynedd,Gwynedd,region,,52.843039,-3.986127,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Harrow,Harrow,region,,51.59682715,-0.337304618,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Hull & East Yorkshire,Hull and East Yorkshire,region,,53.9015775,-0.3827242,6,regions_Europe4.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,United Kingdom,Leicestershire,Leicestershire,region,,52.68491375,-1.184765309,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Llanelli,Llanelli,region,,51.694164,-4.153326,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Lothian,Lothian,region,,55.9484,-3.2121,6,regions_Europe4.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,United Kingdom,Methyr,Methyr,region,,51.755137,-3.380094,9,regions_Europe_simp.geojson,Manually generated with QGIS,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Mid-Glamorgan County,Mid-Glamorgan County,region,,51.610676,-3.433046,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Midlothian,Midlothian,region,,55.833333,-3.083333,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Neath,Neath,region,,51.659619,-3.803329,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Newport,Newport,region,,51.582806,-2.967962,9,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Northeast Scotland,Northeast Scotland,region,,57.26746,-2.58448,6,regions_Europe4.geojson,"OSM, combined with QGIS",GIVES-21,"Kyle 1965, 1971, 1980 - also historically called Grampian"
+Europe,United Kingdom,Northern Ireland,Northern Ireland,region,,54.5859836,-6.9591554,6,regions_Europe4.geojson,https://www.kaggle.com/datasets/dorianlazar/uk-regions-geojson?resource=download,GIVES-21,
+Europe,United Kingdom,Orkney Islands,Orkney Islands,region,,59.01329755,-3.231240293,6,regions_Europe4.geojson,OSM,GIVES-21,Kyle 1992
+Europe,United Kingdom,Oxford county and surrounding,Oxfordshire,region,,51.78832,-1.32244,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Evans 1965
+Europe,United Kingdom,Pontypool,Pontypool,region,,51.70315,-3.042294,9,regions_Europe_simp.geojson,Manually generated with QGIS,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Pontypridd,Pontypridd,region,,51.600592,-3.33522,9,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Port Talbot,Port Talbot,region,,51.603984,-3.796005,9,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Powys,Powys,region,,52.312184,-3.358033,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Scotland,Scotland,region,,56.4907,-4.2026,6,regions_Europe4.geojson,https://www.kaggle.com/datasets/dorianlazar/uk-regions-geojson?resource=download,GIVES-21,
+Europe,United Kingdom,Shetland Islands,Shetland Islands,region,,60.333333,-1.333333,6,regions_Europe4.geojson,OSM,GIVES-21,Kyle 1992
+Europe,United Kingdom,South Glamorgan,South Glamorgan,region,,51.44991,-3.337707,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Clydesdale,South Lanarkshire,region,,55.65736,-3.757064,6,regions_Europe4.geojson,OSM,GIVES-21,Clydesdale is a historic name
+Europe,United Kingdom,Stockton-on-Tees,Stockton-on-Tees,region,,54.564094,-1.3129164,9,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Swansea,Swansea,region,,51.620025,-3.945422,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Swindon,Swindon,region,,51.5613683,-1.7856853,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Trent,Trent,region,,50.967964,-2.57769,9,regions_Europe4.geojson,OSM,GIVES-21 Update,Stone 2003
+Europe,United Kingdom,Wales,Wales,region,,52.1307,-3.7837,6,regions_Europe4.geojson,https://www.kaggle.com/datasets/dorianlazar/uk-regions-geojson?resource=download,GIVES-21,
+Europe,United Kingdom,West Glamorgan,West Glamorgan,region,,51.62862,-4.018556,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,West Lothian,West Lothian,region,,55.916667,-3.5,6,regions_Europe4.geojson,OSM,GIVES-21,
+Europe,United Kingdom,"Wolverhampton, Salisbury, & Swindon","Wolverhampton, Salisbury and Swindon",region,,51.705505,-1.763364,6,regions_Europe4.geojson,"OSM, combined with QGIS",GIVES-21,
+Europe,United Kingdom,Wrexham,Wrexham,region,,53.050253,-2.989027,6,regions_Europe4.geojson,OSM,GIVES-21 Update,Mayberry 1980
+Europe,United Kingdom,Aberdeen,Aberdeen,municipality,,57.1482429,-2.0928095,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Blackpool,Blackpool,municipality,,53.8179442,-3.0509812,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Cardiff,Cardiff,municipality,,51.4816546,-3.1791934,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Derby,Derby,municipality,,52.9212617,-1.4761491,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Gloucester,Gloucester,municipality,,51.8653705,-2.2458192,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Hull,Hull,municipality,,53.7435722,-0.3394758,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Leeds,Leeds,municipality,,53.7974185,-1.5437941,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Nottingham,Nottingham,municipality,,52.9534193,-1.1496461,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Oxford,Oxford,municipality,,51.7520131,-1.2578499,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Salisbury,Salisbury,municipality,,51.0690613,-1.7954134,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Tower Hamlets,Tower Hamlets,municipality,,51.1288633,1.2986686,9,municipalities_Europe.geojson,Manually generated with geojson.io,GIVES-21,
+Europe,United Kingdom,Wolverhampton,Wolverhampton,municipality,,52.5847651,-2.127567,9,municipalities_Europe.geojson,OSM,GIVES-21,
+Europe,United Kingdom,Devon,Devon,region,,50.764005,-3.838764,9,regions_Europe_simp.geojson,OSM,GIVES-21 Update,
+Europe,United Kingdom,Tayside Health Area,Tayside,region,,56.612,-3.558,6,regions_Europe_simp.geojson,OSM,GIVES-21 Update,
+North America,United States,United States,United States,country,USA,39.7837304,-100.445882,,res50m.geo.json,,GIVES-21,
+North America,United States,California,California,region,,36.7783,-119.4179,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21,
+North America,United States,Florida,Florida,region,,27.6648,-81.5158,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21,
+North America,United States,Georgia,Georgia,region,,32.68629654,-83.35046861,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21 Update,Ogunbi 1998
+North America,United States,Los Angeles and San Bernardino,Los Angeles and San Bernardino,region,,34.0813773,-118.3902172,8,regions_NorthAmerica.geojson,,GIVES-21,
+North America,United States,Maryland,Maryland,region,,39.0458,-76.6413,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21,
+North America,United States,"Midwest (Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin)",Midwest USA,region,,41.82372,-94.951875,6,regions_NorthAmerica.geojson,"us_states.json, combined with QGIS",GIVES-21 Update,
+North America,United States,Minnesota,Minnesota,region,,46.7296,-94.6859,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21,
+North America,United States,New York,New York,region,,40.7128,-74.006,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21,
+North America,United States,"Northeast (Connecticut, Maine, Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Puerto Rico (territory), Rhode Island, Vermont, US Virgin Islands (territory))",Northeast USA,region,,42.264061,-74.338141,6,regions_NorthAmerica.geojson,"us_states.json, combined with QGIS",GIVES-21 Update,
+North America,United States,Northern California,Northern California,region,,40.240306,-122.055521,6,regions_NorthAmerica.geojson,"https://gis.data.ca.gov/datasets/CALFIRE-Forestry::california-county-boundaries/explore?location=35.369868%2C-121.274346%2C6.79, combined with QGIS",GIVES-21,Northern California Megaregion is four regions and 21 counties
+North America,United States,Olmsted County,Olmsted County,region,,43.989845,-92.362064,6,regions_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Rhode Island,Rhode Island,region,,41.7962409,-71.5992372,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21,
+North America,United States,"South (Alabama, Arkansas, Delaware, District of Columbia (Federal District), Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, West Virginia)",South USA,region,,35.114494,-87.627197,6,regions_NorthAmerica.geojson,"us_states.json, combined with QGIS",GIVES-21 Update,
+North America,United States,"Albuquerque, New Mexico; Banning, California; Boulder, Colorado; Bridgeport, Connecticut; Clarksville, Tennessee; Eunice, Louisiana; Eureka, California; Ithaca, New York; Lansing, Michigan; Maryville, Tennessee; Medford, Oregon; Portland, Maine; Topeka, Kansas; Winona, Minnesota; York, Pennsylvania",USA Cities Garland 1981,region,,39.74476843,-101.320709,6,regions_NorthAmerica.geojson,"OSM, combined with QGIS",GIVES-21,
+North America,United States,"West (Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming)",West USA,region,,40.483336,-114.974683,6,regions_NorthAmerica.geojson,"us_states.json, combined with QGIS",GIVES-21 Update,
+North America,United States,Wisconsin,Wisconsin,region,,43.7844,-88.7879,6,regions_NorthAmerica.geojson,us_states.json,GIVES-21,
+North America,United States,Albuquerque,Albuquerque,municipality,,35.0841034,-106.650985,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Baltimore,Baltimore,municipality,,39.2908816,-76.610759,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Banning,Banning,municipality,,33.9255685,-116.875289,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Boulder,Boulder,municipality,,40.0149856,-105.270545,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Bridgeport,Bridgeport,municipality,,41.1670412,-73.2048348,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Clarksville,Clarksville,municipality,,36.5277607,-87.3588703,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Eunice,Eunice,municipality,,30.4943669,-92.4176324,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Eureka,Eureka,municipality,,40.7906871,-124.1673746,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Ithaca,Ithaca,municipality,,42.437072,-76.54831459,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Lansing,Lansing,municipality,,42.7337712,-84.5553805,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Los Angeles,Los Angeles,municipality,,34.05657717,-118.2716883,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Maryville,Maryville,municipality,,38.724575,-89.98839965,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Medford,Medford,municipality,,42.4184296,-71.1061639,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,"Portland, Maine",Portland (ME),municipality,,45.5202471,-122.6741949,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,"Rochester, Minnesota",Rochester (MN),municipality,,44.0234387,-92.4630182,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,"Rochester, New York",Rochester (NY),municipality,,43.1573656,-77.61090756,9,,,GIVES-21 Update,Stowe 1990
+North America,United States,San Bernardino,San Bernardino,municipality,,34.10793216,-117.2877801,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Spokane,Spokane,municipality,,47.6571934,-117.4235106,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Topeka,Topeka,municipality,,39.049011,-95.677556,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,Winona,Winona,municipality,,43.9582272,-91.7807784,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+North America,United States,York,York,municipality,,39.96165,-76.726255,9,municipalities_NorthAmerica.geojson,OSM,GIVES-21,
+South America,Uruguay,Uruguay,Uruguay,country,URY,-33.05293,-55.775548,,res50m.geo.json,,GIVES-21 Update,
+South America,Uruguay,Artigas,Artigas,region,,-30.3984136,-56.4638078,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21 Update,
+South America,Uruguay,"Artigas, Salto, Lavalleja, San José, Montevideo","Artigas, Salto, Lavalleja, San Jose, Montevideo",region,,-32.166301,-56.677773,6,regions_SouthAmerica_simp.geojson,"OSM, combined with QGIS",GIVES-21 Update,
+South America,Uruguay,Lavalleja,Lavalleja,region,,-33.9971964,-54.9992242,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21 Update,
+South America,Uruguay,Montevideo and Salto,Montevideo and Salto,region,,-34.70475845,-56.39008907,6,regions_SouthAmerica_simp.geojson,"OSM, combined with QGIS",GIVES-21 Update,Iade 2018
+South America,Uruguay,San José,San Jose,region,,-34.455,-56.616944,6,regions_SouthAmerica_simp.geojson,OSM,GIVES-21 Update,
+South America,Uruguay,Montevideo,Montevideo,municipality,,-34.884489,-56.164857,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21 Update,
+South America,Uruguay,Salto,Salto,municipality,,-31.390734,-57.947608,9,municipalities_SouthAmerica.geojson,OSM,GIVES-21 Update,
+Europe,Western Europe,Western Europe,Western Europe,region,,52.263115,0.891893,,WesternEurope_cost_combined.json,,Cost_map,
+Europe,Italy,Healthcare District of Bra,Cuneo Province,region,,44.418564,7.622712,6,regions_Europe_simp.geojson,OSM,GIVES-21 Update,
+Asia,Russia,Irkutsk Region,Irkutsk Region,region,,54.52902,104.349819,6,regions_Asia_simp.geojson,OSM,GIVES-21 Update,
+Oceania,Australia,Mackay-Isaac-Whitsunday Region,Mackay-Isaac-Whitsunday,region,,-22.054538,147.819641,6,regions_Oceania_simp.geojson,"OSM, edited with QGIS",GIVES-21 Update,
+,,,,,,,,,,,,
